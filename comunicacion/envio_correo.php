@@ -43,8 +43,8 @@
 			$mail->IsSMTP();
 			$mail->SMTPAuth = true;
 			$mail->Host = "smtp.office365.com";
-			$mail->Username = "manuel.levicoy@bogado.cl";
-			$mail->Password = "B0g1d0Ing2n32r0s.2022.#*";
+			$mail->Username = "######";
+			$mail->Password = "######";
 			$mail->SMTPSecure = "tls";
 			$mail->Port = 587;
 
